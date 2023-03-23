@@ -1,0 +1,112 @@
+/* .App {
+  text-align: center;
+}
+/*
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* .setiap_karya_gambar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.konten {
+  padding: 20px;
+}
+
+.deskripsi {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .konten {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  css Copy code .setiap_karya_gambar {
+    height: 400px;
+    position: relative;
+  }
+
+  .setiap_karya_gambar p {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+  }
+
+  .deskripsi {
+    text-align: left;
+  }
+}
+
+#ketiga h2 {
+  text-align: center;
+  color: #0074b9;
+}
+
+#ketiga input,
+#ketiga textarea {
+  display: block;
+  width: 100%;
+  height: 30px;
+  margin-bottom: 12px;
+  border: 2px solid #0074b9;
+}
+
+#ketiga textarea {
+  height: 130px;
+}
+
+input[type="submit"] {
+  background-color: #0074b9;
+  color: white;
+}
+
+input[type="submit"]:hover {
+  cursor: pointer;
+  background-color: #148fd7;
+}
+
+#ketiga iframe {
+  max-width: 450px;
+} */
